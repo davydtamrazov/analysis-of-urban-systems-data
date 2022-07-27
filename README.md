@@ -8,4 +8,5 @@ Contains a series of labs exploring, analysing and visualizing the urban systems
 - _Lab 5_: Using AB testing to evaluate the impact that the residential water conservation program has had in the cities of Hoboken, NJ, and Weehawken, NJ.
 - _Lab 6_: Predicting daily bike rentals.
 
+
 ![](https://github.com/davydtamrazov/analysis-of-urban-systems-data/blob/main/aux/series_of_plots.png)
