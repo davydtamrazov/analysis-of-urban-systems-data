@@ -1,4 +1,4 @@
-# Analysis of Urban Systems data
+# Analysis of Urban Systems Data
 Contains a series of labs exploring, analysing and visualizing the urban systems data. Performed as a part of the CEE322 (Data Analytics for Urban Systems) class at Stanford University.
 
 - _Lab 1_: Analysis of air contamination associated with electric power generation.
